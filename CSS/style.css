@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.part-1 {
+  width: 100%;
+}
+.part-1 .desktop-version {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 0.625rem;
+  position: fixed;
+  width: 100%;
+}
+.part-1 .desktop-version a {
+  color: #344563;
+  text-decoration: none;
+  width: 5.4375rem;
+  height: 2.5rem;
+  padding: 0.625rem 0.75rem 0.625rem 0.75rem;
+  font-weight: 800;
+}/*# sourceMappingURL=style.css.map */
